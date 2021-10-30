@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- My Custom Color -->
+    <color name="black_800">#424242</color>
+<!--    <color name="black_light">#6d6d6d</color>-->
+    <color name="black_dark">#1b1b1b</color>
+    <color name="gray_300">#e0e0e0</color>
+<!--    <color name="gray_light">#ffffff</color>-->
+    <color name="gray_dark">#aeaeae</color>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">APIGithubUserApp</string>
+    <string name="search_user">Cari Nama Pengguna Github</string>
+    <string name="username">Username</string>
+    <string name="name">Nama</string>
+    <string name="location">Lokasi</string>
+    <string name="company">Perusahaan</string>
+    <string name="repository">Repositori</string>
+    <string name="following">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="avatar">Avatar</string>
+    <string name="favorite">Favorit</string>
+    <string name="mode">Mode</string>
+    <string name="dark_mode">Mode Gelap</string>
+<!--    <string name="empty_favorite">List Favorite Kosong</string>-->
+    <string name="button">Button</string>
+    <string name="search_user_title">Pencarian User</string>
+    <string name="user_favorite_title">User Favorite</string>
+    <string name="change_mode">Ganti Pengaturan Mode</string>
+    <string name="share">Share</string>
+</resources>
